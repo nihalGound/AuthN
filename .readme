@@ -1,1 +1,0 @@
-you have to make .env file and define your PORT,DATABASE_URL and JWT_SECRET. 
