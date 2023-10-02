@@ -9,6 +9,6 @@ Before you start, ensure you have met the following requirements:
 
 #configuration
 create a env file and add this configuration
-PORT=3000
-DATABASE_URL=mongodb://localhost:27017/authdb
-JWT_SECRET=your-secret-key-here
+- PORT=3000 , 
+- DATABASE_URL=mongodb://localhost:27017/authdb , 
+- JWT_SECRET=your-secret-key-here
